@@ -1,6 +1,6 @@
 Things that will be added soon!
 
-- [x] Korean Translation
+- [ ] Korean Translation
 - [ ] Español Translation
 - [ ] Japanese Translation
 - [ ] Dutch Translation
@@ -8,5 +8,4 @@ Things that will be added soon!
 - [ ] French Translation
 - [ ] Bot Dashboard
 - [ ] Site Retransformation
-- [ ] Hidden Pages
 - [ ] Community Contributions
