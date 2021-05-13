@@ -1,5 +1,6 @@
 Things that will be added soon!
 
+- [ ] Privacy Policy
 - [ ] Korean Translation
 - [ ] Español Translation
 - [ ] Japanese Translation
