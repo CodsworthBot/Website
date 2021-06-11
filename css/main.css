@@ -1,32 +1,32 @@
 body {
-    font-family: 'Poppins', sans-serif !important;
-    background-color: #1D1E28;
+    font-family: 'Uni Sans Heavy', uni-sans-heavy !important;
+    background-color: #121212;
     color: #fff;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
-    border-top: 6px #AD91FF solid !important;
+    border-top: 6px #7289DA solid !important;
     font-size: 16px;
 }
 
 .nav-link {
      font-size: 14px !important;
      background: transparent !important;
-     font-family: Lato, sans-serif !important;
+     font-family: Uni Sans, uni-sans-regular !important;
      text-transform: capitalize !important;
  }
  .nav-link:hover {
      background: transparent !important;
-     color: #AD91FF !important;
+     color: #7289DA !important;
      font-weight: bold !important;
  }
 
  .login-btn {
-     border: 2px solid #AD91FF !important;
+     border: 2px solid #7289DA !important;
      font-size: 10px !important;
  }
  .login-btn:hover {
-     background: #AD91FF !important;
+     background: #7289DA !important;
  }
 .navbar {
     box-shadow: none !important
@@ -48,7 +48,7 @@ body {
 }
 
 .btn-primary {
-    background-color: #AD91FF!important
+    background-color: #7289DA!important
 }
 .btn-secondary {
     background-color: #2C2F33 !important
@@ -71,13 +71,13 @@ body {
 .subtitle {
     color: rgba(255, 255, 255, 0.685) !important;
     font-size: 16px !important;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Uni Sans', uni-sans-regular;
 }
 
 
 .features {
     text-align: center !important;
-    background: #AD91FF !important;
+    background: #7289DA !important;
     padding: 60px 50px !important;
     background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
     background-position: bottom !important;
@@ -114,7 +114,7 @@ body {
 .card-title {
     font-size: 28px !important;
     font-weight: 600 !important;
-    color: #AD91FF !important;
+    color: #7289DA !important;
 }
 
 .statistics {
@@ -166,7 +166,7 @@ body {
 .features .card {
     background: #1D1E28;
     border-radius: 22px !important;
-    border: 4px solid #AD91FF;
+    border: 4px solid #7289DA;
 }
 .features .card-text {
 color: rgba(255, 255, 255, 0.46) !important
@@ -197,7 +197,7 @@ color: rgba(255, 255, 255, 0.46) !important
 }
 
 .footer .nouridio a {
-    color: #AD91FF !important;
+    color: #7289DA !important;
     text-decoration: none !important;
 }
 
